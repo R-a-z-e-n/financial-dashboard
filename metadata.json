@@ -1,0 +1,5 @@
+{
+  "name": "Financial Dashboard",
+  "description": "A web application to visualize company financial data (Revenue, EBITDA, PAT) over the years. Users can select a company and a financial metric to view the corresponding data on an interactive bar chart.",
+  "requestFramePermissions": []
+}
